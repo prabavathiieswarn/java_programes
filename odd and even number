@@ -1,0 +1,12 @@
+{
+	public static void main(String[] args) {
+	    int s=13;
+	    if(s==13){
+	    System.out.print("this number is odd ");}
+	    else if
+	    (s<13)
+	    
+	
+	{	System.out.println(" this number is even");}
+	}
+}
