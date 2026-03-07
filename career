@@ -1,0 +1,12 @@
+
+
+public class Main
+{
+	public static void main(String[] args) { int career= 12;
+	if(career>  12){
+	System.out.println(" career is sucess");}
+	else if(12< career)
+{	System.out.println(" career is backup");}
+	
+	}
+}
