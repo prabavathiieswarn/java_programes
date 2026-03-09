@@ -1,0 +1,16 @@
+
+class student {
+    private int marks ;
+    public void setmarks (int M) {
+marks =M;
+}
+public int getmarks (){
+    return marks;}
+}
+
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
+}
