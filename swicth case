@@ -1,0 +1,26 @@
+
+public class Main
+{
+	public static void main(String[] args) {
+	    String day="monday";
+	    switch (day) {
+	        case "monday":
+	    System.out.println("1 st day");
+	    break;
+	    case "tues day": 
+	    System.out.println("2 nd day");
+	    break;
+	    case "wednes day":
+	    System.out.println("3 th day");
+	    break;
+	        
+	        
+	        
+	    }
+	            
+	    
+
+	
+}
+
+}
