@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) { 
+	   Scanner sc=new Scanner (System.in) ;
+	   String Machine =sc.nextLine();
+	   
+	    switch (Machine){
+	        case" 1":
+	            System.out.println("automatically operator");
+	            break;
+	        case "2":
+	            System.out.println("honoring operator");
+	            break;
+	        case" 3 ":
+	            System.out.print("coating Machine");
+	            break;
+	    }
+
+	}
+}
