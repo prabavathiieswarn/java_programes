@@ -1,0 +1,22 @@
+
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) { 
+	   Scanner sc=new Scanner (System.in) ;
+	   int  player =sc.nextInt();
+	   
+	    switch (player){
+	        case 1:
+	            System.out.println("runing");
+	            break;
+	        case 2:
+	            System.out.println("relay");
+	            break;
+	        case  3 :
+	            System.out.print("kokoo");
+	            break;
+	    }
+
+	}
+}
