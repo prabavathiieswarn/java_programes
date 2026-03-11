@@ -1,0 +1,12 @@
+
+public class Main
+{
+	public static void main(String[] args) { String pk =("copilot");
+	char a=('s');
+	int i =8;{
+		System.out.println(" pk+a+i");}
+		
+		a++;
+		i++;
+	}
+}
