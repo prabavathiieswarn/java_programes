@@ -1,0 +1,21 @@
+ class eletion {
+          private int vote;
+          public void setvote (int vote){
+           this.vote =vote;
+      }
+      public int getvote(){
+          return vote;
+      }
+      }
+      
+public class Main
+{
+	public static void main(String[] args) {
+		eletion e= new eletion();
+		e.setvote (5);
+		{
+		System.out.println(e.getvote());}
+	
+} 
+}
+
