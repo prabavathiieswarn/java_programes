@@ -1,0 +1,20 @@
+class animal {
+          private int cat;
+          public void setcat (int cat){
+           this cat=cat;
+      }
+      public int getcat(){
+          return cat;
+      }
+      }
+      
+public class Main
+{
+	public static void main(String[] args) {
+		animal a= new animal();
+		a.setcat (5);
+		{
+		System.out.println(a.getcat());}
+	
+} 
+}
